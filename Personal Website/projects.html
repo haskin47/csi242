@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nicholas Haskin, Projects</title>
+    <link rel="stylesheet" href="style.css">
+
+    <style>
+
+        .card-container{
+            margin: 0 auto;
+            max-width: 1000px;
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 30px;
+            font-family: sans-serif;
+            padding: 30px;
+        }
+        .card{
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            margin: auto;
+            text-align: center;
+            transition: .3s;
+            background-color: white;
+        }
+        .card:hover{
+            box-shadow: 8px 8px 16px 0 rgba(0, 0, 0, 0.4);
+        }
+        .card-image{
+            width: 100%;
+        }
+        .price{
+            color: grey;
+            font-size: 28px;
+        }
+        .card-cart-button{
+            border: none;
+            padding: 12px;
+            color: white;
+            background-color: #000;
+            cursor: pointer;
+            width: 100%;
+            font-size: 20px;
+            transition: .5s;
+        }
+        .card-cart-button:hover{
+            color: black;
+            background-color: white;
+        }
+
+    </style>
+
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="projects.html">Projects</a></li>
+        </ul>
+    </nav>
+
+    <hr>
+    <div class="main-body">
+
+    <div class="card-container">
+    
+        <div class="card">
+            <img src="https://via.placeholder.com/400x500/F8F8FF" alt="" class="card-image">
+            <div class="card-info">
+                <h2>Auelia Wiki</h2>
+                
+                <p>An interactive web page housing 40+ pages of hand written writing and storytelling for an interactive, improv directed group narrative.</p>
+            </div>
+            <div>
+                <form method="post" action="auelia.html">
+                    <button class="card-cart-button">Visit Project Page</button>
+                </form>
+            </div>
+        </div>
+    
+        <div class="card">
+            <img src="https://via.placeholder.com/400x500/F8F8FF" alt="" class="card-image">
+            <div class="card-info">
+                <h2>Point Buy Calculator</h2>
+                
+                <p>An easy to use web page for non-standard calculations in the Pathfinder, Starfinder, and D&D 5e systems.</p>
+            </div>
+            <div>
+                <form method="post" action="calculator.html">
+                    <button class="card-cart-button">Visit Project Page</button>
+                </form>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="https://via.placeholder.com/400x500/F8F8FF" alt="" class="card-image">
+            <div class="card-info">
+                <h2>Dice Roller</h2>
+                
+                <p>An intuitive program to help users roll odd sized dice correctly. Fate dice included.</p>
+            </div>
+            <div>
+                <form method="post" action="diceroller.html">
+                    <button class="card-cart-button">Visit Project Page</button>
+                </form>
+            </div>
+        </div>
+
+    </div>
+
+    </div>
+    <hr>
+
+    <footer>
+        <ul>
+            <li>Copyright @2021 All rights reserved</li>
+            <li>Created by Nick Haskin</li>
+            <li><a href="mailto:nicholas.r.haskin@gmail.com">nicholas.r.haskin@gmail.com</a></li>
+        </ul>
+    </footer>
+
+</body>
+</html>
