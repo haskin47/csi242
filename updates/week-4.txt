@@ -1,0 +1,4 @@
+Passcodes: ECLIPSE and STRIFE
+Participation: I was unable to attend both lectures in person, but watched them afterwards once they were posted online.
+Self-Directed Learning: Studied last weeks Lab. Would've studied this week's lab, but didnt sign in soon enough to watch and the I can't find the video online.
+Project Calculator: I've taken the time to study the example calculator shown in last week's lab. I've studied the offered code, and am beginning my work on writing the code. I have the next few days off work. I predict I can get the code for it done by thursday, leaving a few days to polish the design to an acceptable level.
