@@ -34,14 +34,14 @@ window.onload = function() {
 
 function Draw() {
     if(gameover == true){ 
-        //console.log("I'm here");    
+        //  Game over screen?    
         return; 
     }
 
-    context.fillStyle = "black";
+    context.fillStyle = "brown";
     context.fillRect(0, 0, gameboard.width, gameboard.height);
 
-    context.fillStyle = "red";
+    context.fillStyle = "yellow";
     context.fillRect(foodX, foodY, blockSize, blockSize);
 
     if(snakeX == foodX && snakeY == foodY){
