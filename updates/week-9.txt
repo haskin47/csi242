@@ -1,0 +1,12 @@
+Passcodes: WAVE and CRASH
+Participation: Attended both lectures via Zoom. Asked questions.
+Self-Directed Learning: MUltiple websites and tutorials looked up to find solutions to bugs in Project 3's code.
+Project Game: Complete. But because of my extension, I cannot turn it in like before. I can put the links here, though. So unless told otherwise, I will do that.
+As mentioned in my email, I was given an extension due to my own illness, which I am grateful for. I wasn't able to get the level of polish I wanted due to other close family members falling ill with Covid.
+
+
+Game Link: https://haskin47.github.io/snake-game.html
+
+HTML Link: https://github.com/haskin47/haskin47.github.io/blob/main/snake-game.html
+Javascript Link: https://github.com/haskin47/haskin47.github.io/blob/main/snake-calculate.js
+CSS Style Link: https://github.com/haskin47/haskin47.github.io/blob/main/snake-style.css
