@@ -1,0 +1,5 @@
+Passcodes: 476
+Participation: Watched tuesday's lecture, but arrived late. Just in time for the passcode. 
+Self-Directed Learning: Looked up multiple things while writing out the code for my calculator. What I went back to repeatedly, is w3schools tutorial on Cascading Dropdown Lists.
+Project-Point Buy Calculator: Nearly complete. Tested it and it works well. 
+    To-Do: Implement various races, and the different ability score bonuses from them. Their bonuses will change based on whether or not the calculator is in D&D or Pathfinder setting.
